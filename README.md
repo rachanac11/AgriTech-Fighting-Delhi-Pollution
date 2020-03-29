@@ -6,5 +6,9 @@ The neglect of burning and poor maintenance of crop residue from the farms cause
 
 Our Solution Modules:
 Android app
+
 Website
+
 Fire Detection Module
+link for datasets : https://people.csail.mit.edu/torralba/code/spatialenvelope/spatial_envelope_256x256_static_8outdoorcategories.zip
+https://drive.google.com/file/d/11KBgD_W2yOxhJnUMiyBkBzXDPXhVmvCt/view?usp=sharing
