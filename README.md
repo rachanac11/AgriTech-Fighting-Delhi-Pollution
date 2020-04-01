@@ -22,7 +22,12 @@ A website designed to automate stubble pickup from farmers. After ensuring that 
 ![](orders.png)
 
 # Fire Detection Module
+
 link for datasets : https://people.csail.mit.edu/torralba/code/spatialenvelope/spatial_envelope_256x256_static_8outdoorcategories.zip
 https://drive.google.com/file/d/11KBgD_W2yOxhJnUMiyBkBzXDPXhVmvCt/view?usp=sharing
 
+![](fire.jpg)
+![](fire2.jpg)
+![](nofire.jpg)
+![](nofire2.jpg)
 
