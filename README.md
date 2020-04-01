@@ -4,11 +4,25 @@ The neglect of burning and poor maintenance of crop residue from the farms cause
 2.2 million children in Delhi have irreversible lung damage due to the poor quality of the air. In addition, research shows that pollution can lower children's immune system and increase the risks of cancer, epilepsy, diabetes.
 
 
-Our Solution Modules:
-Android app
 
-Website
 
-Fire Detection Module
+# Android app :
+
+https://github.com/karanbalani/AgriTech
+
+
+# Website
+
+A website designed to automate stubble pickup from farmers. After ensuring that farmers do not burn the stubble, we sought to pickup this stubble from them and transport it to recycling industries. Key features include 3 logins and signups namely for the Admin,delivery boy and farmer, free call for pickup,Otp verification through mail, Chatbot for convenience, Admin's control over all placed orders, Delivery boy's ability to update the status of orders.
+
+![](krishivikas.png)
+![](callpickup.png)
+![](otp.png)
+![](chatbot.png)
+![](orders.png)
+
+# Fire Detection Module
 link for datasets : https://people.csail.mit.edu/torralba/code/spatialenvelope/spatial_envelope_256x256_static_8outdoorcategories.zip
 https://drive.google.com/file/d/11KBgD_W2yOxhJnUMiyBkBzXDPXhVmvCt/view?usp=sharing
+
+
