@@ -8,7 +8,7 @@ The neglect of burning and poor maintenance of crop residue from the farms cause
 
 # Android app :
 
-https://github.com/karanbalani/AgriTech
+https://github.com/rachanac11/AgriTech
 
 
 # Website
